@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Posts App Version 1
+
+## Description
+
+This project was made by myself in order to practice Redux Toolkit (including createAsyncThunk), Material UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
