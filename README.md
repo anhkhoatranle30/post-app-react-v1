@@ -4,6 +4,12 @@
 
 This project was made by myself in order to practice Redux Toolkit (including createAsyncThunk), Material UI
 
+## Production
+
+You can visit this app via : https://khoa-postapp-v1.netlify.app/
+
+# Getting started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
